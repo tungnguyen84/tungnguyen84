@@ -104,3 +104,9 @@ Need data extracted from **Google Maps, Yelp, YellowPages, LinkedIn, Car Dealers
 - 🎯 **[B2B Website Email, Phone & Social Media Lead Scraper (Live Demo)](https://huggingface.co/spaces/tungnguyen84/b2b-website-email-phone-social-scraper)**
 - 🤖 **[Website to Markdown & Clean Text Converter for AI RAG & LLMs](https://huggingface.co/spaces/tungnguyen84/website-to-markdown-ai-rag-converter)**
 - 🛍️ **[Shopify & WooCommerce Competitor Price & Product Spy](https://huggingface.co/spaces/tungnguyen84/shopify-woocommerce-competitor-price-spy)**
+---
+
+## 💳 Instant PayPal Digital Store on Payhip
+- 🚀 **[Python B2B Lead Scraper, Email Extractor & Excel VBA Suite Pro ($14.99)](https://payhip.com/b/Vm3DR)**
+- 🛍️ **[Shopify Competitor Product, Price & B2B Contact Spy Pro ($12.99)](https://payhip.com/b/P9mGA)**
+- 📊 **[Ultimate Excel VBA Automation Pack: 10 One-Click Macros ($9.99)](https://payhip.com/b/239q5)**
