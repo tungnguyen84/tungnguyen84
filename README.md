@@ -110,3 +110,11 @@ Need data extracted from **Google Maps, Yelp, YellowPages, LinkedIn, Car Dealers
 - 🚀 **[Python B2B Lead Scraper, Email Extractor & Excel VBA Suite Pro ($14.99)](https://payhip.com/b/Vm3DR)**
 - 🛍️ **[Shopify Competitor Product, Price & B2B Contact Spy Pro ($12.99)](https://payhip.com/b/P9mGA)**
 - 📊 **[Ultimate Excel VBA Automation Pack: 10 One-Click Macros ($9.99)](https://payhip.com/b/239q5)**
+---
+
+## ⚡ Live REST APIs on RapidAPI Hub (@tungnguyen84)
+- 🎯 **[B2B Website Email Phone & Social Scraper API](https://rapidapi.com/tungnguyen84/api/b2b-website-email-phone-social-scraper)**
+- 🛍️ **[Shopify Store Product Price & Contact Scraper API](https://rapidapi.com/tungnguyen84/api/shopify-store-product-price-contact-scraper)**
+- 🔍 **[Website Sitemap SEO Audit & Contact Scraper API](https://rapidapi.com/tungnguyen84/api/website-sitemap-seo-audit-contact-scraper)**
+- 🤖 **[Website to Clean Markdown AI LLM & RAG Converter API](https://rapidapi.com/tungnguyen84/api/website-to-clean-markdown-ai-llm-rag-converter)**
+- 🛒 **[WooCommerce & WordPress Product Price Contact Spy API](https://rapidapi.com/tungnguyen84/api/woocommerce-wordpress-product-price-contact-spy)**
