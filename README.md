@@ -85,3 +85,16 @@ Need data extracted from **Google Maps, Yelp, YellowPages, LinkedIn, Car Dealers
 - **Email / PayPal:** `it.tungnguyen@gmail.com`
 - **Apify Store Profile:** [https://apify.com/tungnguyen84](https://apify.com/tungnguyen84)
 - **Fiverr Profile:** [https://www.fiverr.com/tungnguyen84](https://www.fiverr.com/tungnguyen84)
+
+---
+
+## 📝 Technical Guides & Open-Source Repositories
+
+### 📖 Featured Articles on DEV Community (@tungnguyen84)
+- 📘 **[How to Build a High-Speed B2B Lead, Email & Social Profile Scraper in Python (Open-Source + Cloud API)](https://dev.to/tungnguyen84/how-to-build-a-high-speed-b2b-lead-email-social-profile-scraper-in-python-open-source-cloud-14fc)**
+- 📗 **[Turning Any Website into Clean LLM-Ready Markdown for AI RAG Pipelines in Python](https://dev.to/tungnguyen84/turning-any-website-into-clean-llm-ready-markdown-for-ai-rag-pipelines-in-python-2mi)**
+
+### 💻 Open-Source GitHub Repositories
+1. **[tungnguyen84/b2b-lead-scraper-automation-suite](https://github.com/tungnguyen84/b2b-lead-scraper-automation-suite)** — High-speed Python B2B Website Email, Phone & Social Media Lead Scraper + Excel VBA Automation Suite (1.0.0)
+2. **[tungnguyen84/shopify-woocommerce-product-price-scraper](https://github.com/tungnguyen84/shopify-woocommerce-product-price-scraper)** — Shopify & WooCommerce Store Product Catalog, Price Monitoring, SKU & Contact Extractor (1.0.0)
+3. **[tungnguyen84/website-to-markdown-ai-rag-crawler](https://github.com/tungnguyen84/website-to-markdown-ai-rag-crawler)** — Convert any website or documentation into clean LLM-ready Markdown for AI RAG pipelines (1.0.0)
