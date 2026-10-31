@@ -98,3 +98,9 @@ Need data extracted from **Google Maps, Yelp, YellowPages, LinkedIn, Car Dealers
 1. **[tungnguyen84/b2b-lead-scraper-automation-suite](https://github.com/tungnguyen84/b2b-lead-scraper-automation-suite)** — High-speed Python B2B Website Email, Phone & Social Media Lead Scraper + Excel VBA Automation Suite (1.0.0)
 2. **[tungnguyen84/shopify-woocommerce-product-price-scraper](https://github.com/tungnguyen84/shopify-woocommerce-product-price-scraper)** — Shopify & WooCommerce Store Product Catalog, Price Monitoring, SKU & Contact Extractor (1.0.0)
 3. **[tungnguyen84/website-to-markdown-ai-rag-crawler](https://github.com/tungnguyen84/website-to-markdown-ai-rag-crawler)** — Convert any website or documentation into clean LLM-ready Markdown for AI RAG pipelines (1.0.0)
+---
+
+## 🤗 Live Interactive Web Apps on Hugging Face Spaces (@tungnguyen84)
+- 🎯 **[B2B Website Email, Phone & Social Media Lead Scraper (Live Demo)](https://huggingface.co/spaces/tungnguyen84/b2b-website-email-phone-social-scraper)**
+- 🤖 **[Website to Markdown & Clean Text Converter for AI RAG & LLMs](https://huggingface.co/spaces/tungnguyen84/website-to-markdown-ai-rag-converter)**
+- 🛍️ **[Shopify & WooCommerce Competitor Price & Product Spy](https://huggingface.co/spaces/tungnguyen84/shopify-woocommerce-competitor-price-spy)**
