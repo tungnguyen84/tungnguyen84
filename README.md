@@ -26,7 +26,6 @@ Screenshots and project summaries are available in my [Upwork portfolio](https:/
 
 - [B2B contact extraction and Excel automation examples](https://github.com/tungnguyen84/b2b-lead-scraper-automation-suite)
 - [Shopify / WooCommerce product-data scraper](https://github.com/tungnguyen84/shopify-woocommerce-product-price-scraper)
-- [Website-to-Markdown crawler](https://github.com/tungnguyen84/website-to-markdown-ai-rag-crawler)
 
 These source repositories are separate from the project evidence above. Check each repository's implementation, requirements and license for the intended use. Extracting an email address is not verification that it is deliverable.
 
