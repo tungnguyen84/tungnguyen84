@@ -11,6 +11,14 @@ I focus on scoped automation tasks with clear inputs, reviewable code, and repro
 - Build request mapping, signed-webhook checks, and small data-processing utilities.
 - Prototype AI-assisted workflows with explicit expected outputs and human review points.
 
+## Published Chrome extensions
+
+Independent products I build and maintain (Manifest V3, content scripts, popup UI, `chrome.storage`, `chrome.downloads`, English/Vietnamese UI). Source is kept private.
+
+| Extension | What it does |
+| --- | --- |
+| [Auto Scroll for YouTube Shorts, TikTok, Instagram & Facebook](https://chromewebstore.google.com/detail/auto-scroll-for-youtube-s/kphaghodmbfoniknhiicnhkmefcmmfih) | Advances short-form video feeds automatically when a clip ends, with per-platform toggles, delays, session stats and keyboard shortcuts. |
+| [Social Batch Downloader: TikTok, Facebook, Douyin](https://chromewebstore.google.com/detail/social-batch-downloader-t/ifdgmmhiamkipfpdmokmkhnpnefdahdd) | In-page panel that scans a feed or profile, filters and previews items, and downloads the selected media the user is allowed to save. |
 ## Selected project evidence
 
 | Project | What is available | Validation and scope |
