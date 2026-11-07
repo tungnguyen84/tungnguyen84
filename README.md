@@ -1,50 +1,47 @@
-# Hi, I'm Tung Nguyen
+# Hi, I'm Tung Nguyen 👋
 
-**AI Automation & Python Developer · APIs, Webhooks & Data Workflows**
+**Senior Full-Stack TypeScript, React / React Native & Python Automation Engineer**
 
-I focus on scoped automation tasks with clear inputs, reviewable code, and reproducible checks. I use AI-assisted development and distinguish independent demonstrations from paid client work.
+I build production web and mobile applications, Manifest V3 Chrome extensions, static-analysis & compiler verification tools, and high-reliability Python data/API pipelines.
 
-## What I can help with
+---
 
-- Clean, validate, and reconcile CSV/Excel exports; extract structured information from DOCX files.
-- Diagnose a specific Python or API workflow issue and verify the agreed fix.
-- Build request mapping, signed-webhook checks, and small data-processing utilities.
-- Prototype AI-assisted workflows with explicit expected outputs and human review points.
+## 🛠️ Core Stack & Focus Areas
 
-## Published Chrome extensions
+- **Frontend & Mobile**: TypeScript, React, React Native (iOS / Android / Web), Next.js, State Synchronization (Onyx / Redux / React Query), Reanimated & Responsive Layouts.
+- **Browser & Desktop Extensions**: Chrome Extensions (Manifest V3, Content Scripts, Background Service Workers, `chrome.storage`, `chrome.downloads`, DOM Observers).
+- **Backend, APIs & Automation**: Python (FastAPI, Playwright, Asyncio, Pandas/OpenPyXL), Node.js / Bun, Webhook Signature Verification (HMAC-SHA256), E-Commerce & B2B Data Pipelines.
+- **Systems & Compiler Tooling**: AST/DWARF Verification, Escape Analysis & FFI Boundary Tooling (Go / Rust / C / Python).
 
-Independent products I build and maintain (Manifest V3, content scripts, popup UI, `chrome.storage`, `chrome.downloads`, English/Vietnamese UI). Source is kept private.
+---
 
-| Extension | What it does |
-| --- | --- |
-| [Auto Scroll for YouTube Shorts, TikTok, Instagram & Facebook](https://chromewebstore.google.com/detail/auto-scroll-for-youtube-s/kphaghodmbfoniknhiicnhkmefcmmfih) | Advances short-form video feeds automatically when a clip ends, with per-platform toggles, delays, session stats and keyboard shortcuts. |
-| [Social Batch Downloader: TikTok, Facebook, Douyin](https://chromewebstore.google.com/detail/social-batch-downloader-t/ifdgmmhiamkipfpdmokmkhnpnefdahdd) | In-page panel that scans a feed or profile, filters and previews items, and downloads the selected media the user is allowed to save. |
-## Selected project evidence
+## 🚀 Open-Source Contributions & Engineering Highlights
 
-| Project | What is available | Validation and scope |
-| --- | --- | --- |
-| CSV/Excel cleaning and reconciliation | Synthetic inputs, accepted/rejected records, reconciliation outputs | Independent demonstration; inspect the sample and assumptions before applying it to new data |
-| HopGuard API/webhook prototype | Python payload validation, destination-share checks, ordered callback orchestration, HMAC-SHA256 verification | Six local unit tests rerun successfully on 5 Nov 2026; callbacks are mocked; no live payment execution claimed |
-| CSV Data Cleaning with Python | Ten practical labs, synthetic fixtures, exercises, companion source and technical manuscript | 25 local tests rerun successfully on 5 Nov 2026; an independent, AI-assisted publishing project |
-| UGREEN / OpenClaw incident workflow | Four-agent SKILL.md specification, review rubric and test plan | Specification/static checks are separate from real-device or clinical validation |
+| Repository | Contribution Focus | Verified Merged PRs |
+| :--- | :--- | :--- |
+| **[limitlessprojects/Go-Hybrid](https://github.com/limitlessprojects/Go-Hybrid)** | Soundness verification, AST escape-site analysis, DWARF struct offset extraction, and benchmark reproducibility tooling | [#2439](https://github.com/limitlessprojects/Go-Hybrid/pull/2439) · [#2440](https://github.com/limitlessprojects/Go-Hybrid/pull/2440) · [#2458](https://github.com/limitlessprojects/Go-Hybrid/pull/2458) |
+| **[Expensify/App](https://github.com/Expensify/App)** | Cross-platform React Native (Android, iOS, Web) bug diagnosis, composer selection handling, Onyx cache persistence, and landscape layout architecture | Active Contributor |
 
-Screenshots and project summaries are available in my [Upwork portfolio](https://www.upwork.com/freelancers/~01461cd0c7f9f3f377).
+---
 
-## Public repositories
+## 🧩 Published Chrome Web Store Products
 
-- [B2B contact extraction and Excel automation examples](https://github.com/tungnguyen84/b2b-lead-scraper-automation-suite)
-- [Shopify / WooCommerce product-data scraper](https://github.com/tungnguyen84/shopify-woocommerce-product-price-scraper)
+| Extension | Architecture & Capabilities |
+| :--- | :--- |
+| **[Auto Scroll for YouTube Shorts, TikTok, Instagram & Facebook](https://chromewebstore.google.com/detail/auto-scroll-for-youtube-s/kphaghodmbfoniknhiicnhkmefcmmfih)** | Manifest V3 extension that detects video playback completion across short-form feeds with per-platform toggles, configurable delays, session analytics, and keyboard shortcuts. |
+| **[Social Batch Downloader: TikTok, Facebook, Douyin](https://chromewebstore.google.com/detail/social-batch-downloader-t/ifdgmmhiamkipfpdmokmkhnpnefdahdd)** | In-page media inspector and batch download manager with real-time DOM feed scanning, metadata filtering, preview grid, and queue management. |
 
-These source repositories are separate from the project evidence above. Check each repository's implementation, requirements and license for the intended use. Extracting an email address is not verification that it is deliverable.
+---
 
-## How I work
+## 📦 Public Open-Source Repositories
 
-1. Start with a redacted sample, API documentation, or steps to reproduce the problem.
-2. Agree on a focused milestone, expected outputs, acceptance checks, price, and timeline.
-3. Deliver the agreed code, setup instructions, test examples, and known limitations.
+- **[Shopify & WooCommerce Product/Price Scraper](https://github.com/tungnguyen84/shopify-woocommerce-product-price-scraper)** — High-speed Python CLI & Cloud Actor for extracting e-commerce product catalogs, variants, SKUs, and pricing into clean CSV/Excel datasets.
+- **[B2B Lead Extraction & Excel Automation Suite](https://github.com/tungnguyen84/b2b-lead-scraper-automation-suite)** — Async Python B2B contact & social link extractor paired with automated Excel VBA formatting and deduplication workflows.
 
-For a custom project, [view my Upwork profile](https://www.upwork.com/freelancers/~01461cd0c7f9f3f377).
+---
 
-## More work
+## 📫 Connect & Hire
 
-[Apify tools](https://apify.com/tungnguyen84) · [Hugging Face projects](https://huggingface.co/tungnguyen84) · [Technical articles](https://dev.to/tungnguyen84)
+- **Upwork**: [Tung N. — Full-Stack TypeScript, React/React Native & Python Engineer](https://www.upwork.com/freelancers/~01461cd0c7f9f3f377)
+- **Apify Store**: [apify.com/tungnguyen84](https://apify.com/tungnguyen84)
+- **Dev.to**: [dev.to/tungnguyen84](https://dev.to/tungnguyen84)
